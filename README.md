@@ -3,7 +3,7 @@
 ## Project Overview
 An interactive Power BI dashboard developed to analyse survey responses from 630 data professionals. The project explores salary trends, programming language preferences, respondent demographics and workplace satisfaction.
 ## Dashboard Preview
-![Data Professional Survey Dashboard](Images/dashboard_preview.png)
+![Data Professional Survey Dashboard](Dashboard_preview.png)
 ## Key Metrics
 - **Total Respondents:** 630
 - **Average Age:** 30 years
