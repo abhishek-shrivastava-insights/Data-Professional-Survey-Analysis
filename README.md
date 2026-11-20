@@ -29,4 +29,4 @@ An interactive Power BI dashboard developed to analyse survey responses from 630
 Transformed raw survey responses into an interactive dashboard, making it easier to identify salary patterns, career preferences and workplace satisfaction trends among data professionals.
 ## Author
 **Abhishek Shrivastava**
-[LinkedIn Profile](linkedin.com/in/abhishek-shrivastava2707)
+[LinkedIn Profile](https://www.linkedin.com/in/abhishek-shrivastava2707/)
