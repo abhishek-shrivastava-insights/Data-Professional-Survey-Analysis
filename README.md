@@ -1,1 +1,1 @@
-# Hertfordshire-University-AI-Vs-NON-AI-Users-Analysis
+# Hertfordshire University AI Vs NON-AI Users Analysis
